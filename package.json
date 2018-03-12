@@ -3,12 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --host dnd-spellbook.cooperplanet.com",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "uuid": "^3.2.1",
     "vue": "^2.5.13",
+    "vue-google-auth": "^1.0.5",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },

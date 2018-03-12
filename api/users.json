@@ -1,0 +1,14 @@
+{
+  "112373234229227510644": {
+    "accessToken": "112373234229227510644",
+    "firstName": "Jim",
+    "lastName": "Cooper",
+    "profileImage": "https://lh6.googleusercontent.com/-lxXRGvY4YXs/AAAAAAAAAAI/AAAAAAAABbc/UxMd-7HoY4A/s96-c/photo.jpg",
+    "spellbooks": [{
+      "name": "Aringoth Mahalac",
+      "spells": [],
+      "id": "9cecd5ad-ea6f-45e3-a4a9-7a4e8a71516c",
+      "classType": "wizard"
+    }]
+  }
+}

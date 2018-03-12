@@ -1,0 +1,17 @@
+{
+  "name": "spellbook-api",
+  "version": "1.0.0",
+  "description": "Api for D&D Spellbook",
+  "main": "index.js",
+  "scripts": {
+    "api": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "format-json-pretty": "^1.0.1"
+  }
+}
